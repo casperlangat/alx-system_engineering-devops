@@ -1,6 +1,5 @@
 # Simple Web Stack
 
-
 ![Image of a simple web stack](0-simple_web_stack.PNG)
 
 [visit Board](https://miro.com/app/board/uXjVMZDJ0q8=/?share_link_id=377089404727)
