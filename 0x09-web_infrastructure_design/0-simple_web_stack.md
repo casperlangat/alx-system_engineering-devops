@@ -1,10 +1,14 @@
 # Simple Web Stack
 
+<<<<<<< HEAD
 ![Image of a simple web stack](0-simple_web_stack.jpg)
 
 [visit Board](https://miro.com/app/board/uXjVMZDJ0q8=/?share_link_id=377089404727)
 
 ##Description
+=======
+Description 
+>>>>>>> 179bd17cacf422aad5b4c710f67d7f5cc90f4085
 This is a simple web infrastructure that hosts a website that is reachable via www.foobar.com. There are no firewalls or SSL certificates for protecting the server's network. Each component (database, application server) has to share the resources (CPU, RAM, and SSD) provided by the server.
 
 ##Specifics About This Infrastructure
